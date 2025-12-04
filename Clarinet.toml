@@ -1,0 +1,8 @@
+``toml
+[project]
+name = "cns-registrar"
+requirements = []
+[contracts.cns-registrar]
+path = "contracts/cns-registrar.clar"
+clarity-version = 2
+epoch = 2.4
